@@ -12,11 +12,10 @@ Insights and recommendations are provided on the following key areas:
 - **Conversion Optimization:** Analyzes visitor behavior to identify drop-off points and suggests optimization strategies to boost conversion.
 - **Customer Feedback Analysis:** Applies sentiment analysis and text mining on customer reviews to uncover key themes and support product or service improvements.
 
-The SQL queries used to inspect and clean the data for this analysis can be found here [link].
+The SQL queries used to inspect and clean the data and targeted SQL queries regarding customer journey for this analysis can be found here [SQL Queries](https://github.com/Prathyusha-hub-M/Marketing-Analysis/tree/main/SQL%20queries).
 
-Targed SQL queries regarding various business questions can be found here [link].
 
-An interactive Tableau dashboard used to report and explore sales trends can be found here [link].
+An interactive Power BI dashboard used to report and explore Marketing can be found here [Marketing_Analysis](https://github.com/Prathyusha-hub-M/Marketing-Analysis/blob/main/Marketing_Analysis.pbix)
 
 
 
@@ -36,88 +35,75 @@ The companies main database structure as seen below consists of four tables: tab
 
 ### Overview of Findings
 
-Explain the overarching findings, trends, and themes in 2-3 sentences here. This section should address the question: "If a stakeholder were to take away 3 main insights from your project, what are the most important things they should know?" You can put yourself in the shoes of a specific stakeholder - for example, a marketing manager or finance director - to think creatively about this section.
+The study found that conversion rates were low in October (5.0%) but bounced back in December (10.2%), showing some seasonal change. Social media engagement is dropping, yet when people see the content, a good number still click through (15.37%). Also, customer ratings have stayed steady at about 3.7, which is below the goal of 4.0, indicating a need to improve satisfaction for lower-rated products.
 
-[Visualization, including a graph of overall trends or snapshot of a dashboard]
+![Marketing_analysis_Overview](https://github.com/user-attachments/assets/83912f0b-a346-411b-9f4e-65025577c264)
+
 
 
 
 # Insights Deep Dive
-### Category 1:
 
-* **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+### Category: Reduced Customer Engagement
+
+* **Declining Views.**  
+  Views peaked in February and July but went down from August onward. This shows that audience interest decreased in the later half of the year.
+
+* **Low Interaction Rates.**  
+  Clicks and likes stayed low compared to views. This means the content might need to be more engaging or have clearer calls to action.
+
+* **Content Type Performance.**  
+  Blog content brought the most views, especially in April and July, while social media and video content had steady but slightly lower engagement.
+
+### Category: Decreased Conversion Rates
+
+* **Seasonal Conversion Patterns.**  
+  Throughout the year, overall conversion rates rose and fell. Strong months like February and July showed many products converting well, which hints at seasonal buying. Learning from these months may help boost conversions during slower times.
+
+* **Low Conversion Month.**  
+  May had the lowest conversion rate at 4.3%. No product excelled during this month, suggesting that marketing plans or offers in May could be improved.
+
+* **Peak Conversion Month.**  
+  January recorded the highest conversion rate at 18.5%, likely driven by seasonal demand and effective early-year promotions.
+
+* **Star Product Performance.**  
+  Ski Boots stood out in January with a 150% conversion rate, showing that well-promoted products can drive big gains in the right season.
 
 [Visualization specific to category 1]
 
 
-### Category 2:
+### Category: Customer Feedback Analysis
 
-* **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **Ratings Breakdown.**  
+  Most reviews are high, with 140 reviews at 4 stars and 135 at 5 stars, while lower ratings (1–2 stars) are much fewer (26 at 1 star and 57 at 2 stars).
 
-[Visualization specific to category 2]
+* **Sentiment Overview.**  
+  Positive reviews make up the majority with 275 reviews, showing that most customers are satisfied. Negative reviews are lower, with 82, and there are only a few mixed or neutral reviews.
 
-
-### Category 3:
-
-* **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **Improvement Opportunities.**  
+  The mix of positive and negative feedback suggests there is room to improve. Addressing the specific issues in mixed reviews could turn these into more positive experiences and further boost satisfaction.
 
 [Visualization specific to category 3]
-
-
-### Category 4:
-
-* **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-
-[Visualization specific to category 4]
 
 
 
 # Recommendations:
 
-Based on the insights and findings above, we would recommend the [stakeholder team] to consider the following: 
+* **Observation**: Products like Kayaks, Ski Boots, and Baseball Gloves sell well.  
+  **Recommendation**: Focus on these products with seasonal promotions in busy months like January and September.
 
-* Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
-  
-* Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
-  
-* Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
-  
-* Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
-  
-* Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
+* **Observation**: Social media views and engagement are dropping.  
+  **Recommendation**: Use fun and interactive content, such as videos or polls, especially during the months with lower engagement (September-December).
+
+* **Observation**: Conversion rates rose to 10.2% in December after falling to 5.0% in October.  
+  **Recommendation**: Check what worked in December and try similar ideas during slow times.
+
+* **Observation**: Customer ratings are about 3.7, which is below the 4.0 goal.  
+  **Recommendation**: Listen to customer feedback to fix problems and follow up with unhappy customers for better reviews.
+
+* **Observation**: Some products have ratings below 3.5.  
+  **Recommendation**: Work on these products to improve quality and boost customer satisfaction.
   
 
 
-# Assumptions and Caveats:
 
-Throughout the analysis, multiple assumptions were made to manage challenges with the data. These assumptions and caveats are noted below:
-
-* Assumption 1 (ex: missing country records were for customers based in the US, and were re-coded to be US citizens)
-  
-* Assumption 1 (ex: data for December 2021 was missing - this was imputed using a combination of historical trends and December 2020 data)
-  
-* Assumption 1 (ex: because 3% of the refund date column contained non-sensical dates, these were excluded from the analysis)
