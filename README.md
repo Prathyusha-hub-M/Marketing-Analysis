@@ -2,9 +2,7 @@
 
 ## 📚 Project Background
 
-**ShopEasy** is an e-commerce company that operates as an online retail marketplace, generating revenue through commission-based sales and subscription fees for premium seller services. The platform has been active for several years, thriving in a competitive and rapidly evolving online shopping industry. As the company scales, understanding and optimizing key business metrics such as customer acquisition cost (CAC), conversion rates, average order value (AOV), and customer lifetime value (CLTV) has become critical to ensuring profitability and growth. The business faces the challenge of improving customer engagement and maximizing value per transaction while maintaining platform performance. This project focuses on leveraging data to identify patterns and insights that drive smarter decision-making across marketing, user experience, and retention strategies.
-
----
+**ShopEasy** is an e-commerce company that operates as an online retail marketplace, generating revenue through commission-based sales and subscription fees for premium seller services. The platform has thrived for several years in a competitive online shopping industry. As the company grows, optimizing key metrics—conversion rate, customer engagement rate, and customer feedback score is crucial for profitability and growth. This project uses data insights to improve marketing, enhance user experience, and boost retention strategies.
 
 Insights and recommendations are provided on the following key areas:
 
@@ -16,19 +14,6 @@ The SQL queries used to inspect and clean the data and targeted SQL queries rega
 
 
 An interactive Power BI dashboard used to report and explore Marketing can be found here [Marketing_Analysis](https://github.com/Prathyusha-hub-M/Marketing-Analysis/blob/main/Marketing_Analysis.pbix)
-
-
-
-# Data Structure & Initial Checks
-
-The companies main database structure as seen below consists of four tables: table1, table2, table3, table4, with a total row count of X records. A description of each table is as follows:
-- **Table 2:**
-- **Table 3:**
-- **Table 4:**
-- **Table 5:**
-
-[Entity Relationship Diagram here]
-
 
 
 # Executive Summary
