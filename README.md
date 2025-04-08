@@ -37,14 +37,16 @@ The companies main database structure as seen below consists of four tables: tab
 
 The study found that conversion rates were low in October (5.0%) but bounced back in December (10.2%), showing some seasonal change. Social media engagement is dropping, yet when people see the content, a good number still click through (15.37%). Also, customer ratings have stayed steady at about 3.7, which is below the goal of 4.0, indicating a need to improve satisfaction for lower-rated products.
 
-![Marketing_analysis_Overview](https://github.com/user-attachments/assets/83912f0b-a346-411b-9f4e-65025577c264)
+![Marketing_analysis_Overview-2024](https://github.com/user-attachments/assets/79bd95ec-cae4-4856-9d17-3c7ffaa26ccb)
+
+
 
 
 
 
 # Insights Deep Dive
 
-### Category: Reduced Customer Engagement
+### Reduced Customer Engagement
 
 * **Declining Views.**  
   Views peaked in February and July but went down from August onward. This shows that audience interest decreased in the later half of the year.
@@ -53,9 +55,12 @@ The study found that conversion rates were low in October (5.0%) but bounced bac
   Clicks and likes stayed low compared to views. This means the content might need to be more engaging or have clearer calls to action.
 
 * **Content Type Performance.**  
-  Blog content brought the most views, especially in April and July, while social media and video content had steady but slightly lower engagement.
+  Social Media had a slightly higher percentage of views overall but blog content brought the most views especially in April and July, while social media and video content had steady but slightly lower engagement.
+  
+![Marketing_analysis_Social_Media-2024](https://github.com/user-attachments/assets/867b01b0-b417-4cd0-a90b-8b654767b352)
 
-### Category: Decreased Conversion Rates
+
+### Decreased Conversion Rates
 
 * **Seasonal Conversion Patterns.**  
   Throughout the year, overall conversion rates rose and fell. Strong months like February and July showed many products converting well, which hints at seasonal buying. Learning from these months may help boost conversions during slower times.
@@ -69,10 +74,11 @@ The study found that conversion rates were low in October (5.0%) but bounced bac
 * **Star Product Performance.**  
   Ski Boots stood out in January with a 150% conversion rate, showing that well-promoted products can drive big gains in the right season.
 
-[Visualization specific to category 1]
+![Marketing_analysis_Conversion_details-2024](https://github.com/user-attachments/assets/8e16bf30-0742-4d8b-b3b0-b5646d59feac)
 
 
-### Category: Customer Feedback Analysis
+
+### Customer Feedback Analysis
 
 * **Ratings Breakdown.**  
   Most reviews are high, with 140 reviews at 4 stars and 135 at 5 stars, while lower ratings (1–2 stars) are much fewer (26 at 1 star and 57 at 2 stars).
@@ -83,7 +89,8 @@ The study found that conversion rates were low in October (5.0%) but bounced bac
 * **Improvement Opportunities.**  
   The mix of positive and negative feedback suggests there is room to improve. Addressing the specific issues in mixed reviews could turn these into more positive experiences and further boost satisfaction.
 
-[Visualization specific to category 3]
+![Marketing_analysis_Customer_Reviews-2024](https://github.com/user-attachments/assets/a1a1505d-910a-4d1f-a162-4caa59530565)
+
 
 
 
